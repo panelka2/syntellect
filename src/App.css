@@ -1,0 +1,6 @@
+.main_div {
+    display: flex;
+    flex-direction: column;
+    margin-top: 15%;
+    margin-left: 35%;
+}

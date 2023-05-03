@@ -1,0 +1,18 @@
+.block {
+    background-color: aqua;
+    width: 300px;
+    justify-content: none;
+}
+.block:hover {
+    background-color: aliceblue;
+    cursor: pointer;
+}
+.country_list {
+    width: 300px;
+    border:1px solid black;
+    border-radius: 5px; 
+    padding: 0;
+}
+.country_list li {
+    list-style-type: none;
+}

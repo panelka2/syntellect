@@ -1,0 +1,13 @@
+.block_country {
+    display: flex;
+}
+.image {
+    margin: 25px;
+}
+.country_name { 
+    display: flex;
+    flex-direction: column;
+}
+.country_name span:first-child {
+    font-weight: bold;
+}
